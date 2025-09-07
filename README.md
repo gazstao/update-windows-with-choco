@@ -19,6 +19,8 @@ O comando choco upgrade all -y atualiza todos os pacotes instalados via Chocolat
 ### Executando o Script:  
 
 Execute o PowerShell como administrador e execute o comando para habilitar o script somente na sessão atual:
-```powershell.exe -ExecutionPolicy Bypass -File C:\Users\gazst\AtualizarProgramas.ps1```
+```
+powershell.exe -ExecutionPolicy Bypass -File C:\Users\gazst\AtualizarProgramas.ps1
+```
 
 E os programas deverão estar atualizados.
