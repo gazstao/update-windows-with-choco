@@ -1,3 +1,5 @@
+# Script Power Shell para atualizar os programas do Windows com Chocolatei
+
 ### Passos para criar o script  
 
 Certifique-se de que o Chocolatey está instalado:  
